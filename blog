@@ -1,0 +1,175 @@
+
+1. Introduction 
+This guide explains the process that needs to be followed for users to access the NCL Windows Virtual 
+Desktop Environment (WVD) environment and Microsoft office 365 applications, including Microsoft 
+OneDrive.
+Access Method
+You can access your WVD from any Windows or macOS device, either via a web browser or through the 
+Windows Desktop Application. 
+1- Using Windows Desktop Application on Windows machine.
+2- Using Windows Desktop Application on Apple Mac.
+3- Using a web browser.
+It is recommended that for the optimum user experience, your WVD is accessed through the Windows 
+Desktop Application.
+Prior to beginning the login process to your WVD:
+Have you logged onto the @ncld.nhs.uk network before? (for example the NCLGP laptops)
+• If Yes, then you will need to change your password before being able to access your WVD via 
+the following URL: 
+https://account.activedirectory.windowsazure.com/ChangePassword.aspx?BrandContextID=O3
+65&ruO365=https%3a%2f%2fportal.office.com%2fEditProfile15.aspx
+Now left click here
+• If No, then please follow the steps below: 
+Step1 : 
+Enter your *@ncld.nhs.uk username and temporary password (note: the first part of your 
+username is the same as your NHSmail username but instead of *@nhs.net it is *@ncld.nhs.uk
+and your temporary password will be emailed to you when your account is first created).
+Please left-click on https://rdweb.wvd.microsoft.com/webclient (or copy and paste this link into
+a web browser). Enter your @ncld.nhs.uk username and click on the ‘Next’ button.
+3
+Step 2: 
+Please Enter your temporary password and click ‘Sign in’.
+Step 3: 
+You will now be asked to change your Password. Please choose a new password and left click on 
+the ‘Sign in’ button.
+Step 4: 
+You will now need to add additional Security Verification details to your account. Please select 
+the ‘Authentication Phone’ option, enter your mobile number and check ‘Send me a code by text
+message’ and click on ‘Next’. 
+4
+Step 5: 
+You will receive a text message with your authentication code. Please enter that authentication
+code and click on ‘Verify’. 
+Step 6 : 
+You will now be logged into the WVD portal. 
+5
+2. Using the Windows Desktop Application on Windows 
+Install Microsoft Remote Desktop App from the link below. Please note that you may require
+administrator rights on the machine you are installing the app onto.
+https://docs.microsoft.com/en-us/windows-server/remote/remote-desktopservices/clients/windowsdesktop#install-the-client
+1) Once you have run through the installation process, you will be presented with the below 
+screen. Click the ‘Subscribe’ button.
+2) Enter your ‘@ncld.nhs.uk’ username and click ‘Next’.
+6
+3) Enter your Password and click ‘Sign in’.
+4) You should now receive a text message on your registered mobile device which provides you 
+with an Authentication code, enter this code and left click on the ‘Verify’ button.
+5) Your WVD will be added to the app now, double click on the WVD to launch it (circled in red 
+below)
+7
+6) Enter your Password and tick the ‘Remember me’ box, then left click the ‘OK’ button.
+You will now be logged into your Windows Virtual Desktop.
+8
+3. Using the Windows Desktop Application on macOS 
+Please download the Windows Desktop App from the below link or from the App Store
+https://apps.apple.com/app/microsoft-remote-desktop/id1295203466?mt=12
+1) Once downloaded, open the app and click on ‘Add Workspace’ to add the WVD machine link
+9
+2) Add https://rdweb.wvd.microsoft.com in the workspace area and click on the ‘Add’ button.
+3) Please use your ‘@ncld.nhs.uk’ login username and click on ‘Next’.
+10
+4) Enter your Password and click ‘Sign in’.
+5) You should now receive a text message on your registered mobile device which provides you 
+with an Authentication code, enter this code and click ‘Verify’.
+6) Your WVD will now be added to the app, double click on WVD to launch it (circled below in red)
+11
+7) please enter your ‘@ncld.nhs.uk’ login username and password
+You will now be logged into your Windows Virtual Desktop.
+12
+4. Using a web browser to access your WVD 
+1) Open a web browser (IE/Firefox/ Google Chrome/ Edge / Safari) and enter 
+https://rdweb.wvd.microsoft.com/webclient in the address bar.
+2) Enter your username, this will end in ‘@ncld.nhs.uk’ and click ‘Next.’
+3) Enter your Password and click ‘Sign In’.
+13
+4) You should now receive a text message on your registered mobile device which provides you 
+with an Authentication code, enter this code onto your browser and click ‘Verify’.
+5) You will now be presented with your WVD (circled in red below), please double click on the
+image to launch your WVD.
+14
+6) If you wish, tick the boxes below to allow connection to your local Printer and clipboard (Please 
+note this Printer is not the Printer in your practice, this will only give access to your local printer 
+connected to your personnel laptop / PC and click ‘Allow’. Please note that local printers are 
+not supported by IT.
+7) You will now be prompted to re-enter your Username and Password. This is the same username 
+and password that you used in steps 2 & 3 and click ‘Submit’.
+You will now be logged into your Windows Virtual Desktop.
+15
+5. How to log in to Office 365 & OneDrive from your WVD 
+1) After successfully logging into your WVD, please search for Word from within the search bar 
+(Bottom left corner search bar).
+16
+2) Double click on the ‘Word’ App to open Word on your WVD. You will be now given an 
+option to log into your Microsoft account, which is your ‘@ncld.nhs.uk’ account. Click on 
+‘sign in’.
+3) Please enter your ‘@ncld.nhs.uk’ username (xxxxx.yyyyy@ncld.nhs.uk) and click on ‘Next’.
+4) Please enter your Password and click on ‘Sign in’.
+17
+5) You will now be asked for confirmation to use the same account across your WVD. Please 
+tick ‘Allow my organisation to manage my device’ and click on ‘Yes’. 
+Please press ‘Done’ to complete the activation process.
+You will now be logged into Office 365 on your WVD including OneDrive. Please make sure you 
+save your files to your OneDrive folder ONLY as files saved onto the local drives within your 
+WVD are not backed up.
+18
+6. How to configure Outlook 365 within your WVD 
+1) Please search for ‘Outlook’ from within the search bar (Bottom left corner search bar) and 
+left click on the ‘Outlook App’ icon to launch the Outlook 365 application.
+2) You will be now presented with the screenshot below. Please remove the @ncld.nhs.uk
+email address from within the ‘Email address’ box, type in your personal NHSmail email and 
+left click on the ‘Connect’ button.
+19
+3) Left click on the ‘Office 365’ icon.
+4) It may take a minute or two for your account details to be synced with the WVD so please 
+be patient. If you are prompted for a password. Please enter your NHSmail password. You 
+will now be presented with the screenshot below. Please untick ‘Set up Outlook Mobile on 
+my phone, too’ and left click the ‘Done’ button to complete your Outlook 365 setup.
+20
+7. Frequently Asked Questions 
+Q. I already have @ncld.nhs.uk credentials. However, I cannot log in to my WVD. What can I do?
+A. Please try changing your password using the link below
+https://account.activedirectory.windowsazure.com/ChangePassword.aspx?BrandContextID=O3
+65&ruO365=https%3a%2f%2fportal.office.com%2fEditProfile15.aspx
+Q. I am having trouble with my browser, and it is not letting me change my password or sign into 
+the WVD portal. What do I do?
+A. Please delete your internet browser’s history, cache and data. If you do not know how to that, 
+you will be able to access the web pages you are having difficulties with by using the private 
+browsing mode from within your web browser to access the URLs.
+Q. I am experiencing EMIS Web errors which are causing issues with data entry, prescribing, using 
+templates and launching documents. What do I do?
+A. This is due to EMIS rolling out patch updates and there being a version mismatch. We kindly ask 
+all users to always access EMIS Web via the Configuration Switcher on the NCLGP laptops, even 
+if you only accessing a single instance as this will ensure the latest EMIS Web updates are 
+installed.
+Q. I’m still having issues logging in, what do I do?
+A. please call 020 3688 1881 and select option 1 or alternatively send an email to 
+nclccg.gpsupport@nhs.net for assistance.
+Q. Why do I have to keep logging into the Docman 10 Web instance every time I log back onto my 
+WVD as I do not have to this on my physical device?
+A. Unfortunately Docman 10 wasn’t designed to work in this way and you will have to to log in via 
+the web every time you log in on your WVD. Also please remember to leave your browser open 
+to ensure you are still connected to Docman 10 within that session.
+Q. Can I use Chat, Meetings, Calling, Collaboration Applications such as Teams and accuRx for video 
+within my WVD?
+A. unfortunately Windows Virtual Desktop does not support Teams and similar applications. Video 
+calling is not supported either as the physical hardware does not exist within your WVD to 
+initiate a video call (no camera or microphone). A workaround is to use the ‘Windows Desktop 
+Application’ on your local device to access your WVD and to install the application(s) you 
+require onto your local device. You can change the screen size of your WVD and have for 
+21
+example, Teams and accuRx video on your local machine in a window side by side with your 
+WVD.
+Q. My WVD is going into sleep mode, why is this happening?
+A. If your WVD is idle for 15 minutes, it will go into sleep mode. You will need to enter your 
+password to log back in. 
+Q. After resetting my password / activating my new account, I am trying to log into my WVD on my 
+regular browser, but I cannot log in. Why am I not able to log in? 
+A. Please clear your cookies/cache/temp files on your browser, if not please use private / Incognito 
+browser. 
+Q. I can’t Get Multiple Screens working for my WVD when using the browser?
+A. Unfortunately, multiple screens are not supported in browser mode, but the remote desktop 
+app fully supports multi-screens.
+Q. How do I get the @ symbol working within my WVD when using a Mac?
+A. To get @ on your WVD: Please click Shift + “ on your Mac keyboard
+22
+Q. How can I get the Caps Lock working on my WVD within my Mac?
+A. To get caps on, press the button highlighted below. 
