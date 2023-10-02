@@ -1,4 +1,4 @@
-# Hacktoberfest2022
+# Hacktoberfest2023
 
 Steps to Follow while Sending PR Request
 
